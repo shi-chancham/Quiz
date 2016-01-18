@@ -7,7 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B110AAC01C412AF3003CC581 /* 閃き.png in Resources */ = {isa = PBXBuildFile; fileRef = B110AABF1C412AF3003CC581 /* 閃き.png */; };
+		B1587ECB1C4CE995008F31DA /* 閃き.png in Resources */ = {isa = PBXBuildFile; fileRef = B1587ECA1C4CE995008F31DA /* 閃き.png */; };
+		B1587ECD1C4CE9AC008F31DA /* think.png in Resources */ = {isa = PBXBuildFile; fileRef = B1587ECC1C4CE9AC008F31DA /* think.png */; };
+		B1587ECF1C4CE9C7008F31DA /* 思考ちゃん.png in Resources */ = {isa = PBXBuildFile; fileRef = B1587ECE1C4CE9C7008F31DA /* 思考ちゃん.png */; };
+		B1587ED21C4CE9FA008F31DA /* FontReadme.html in Resources */ = {isa = PBXBuildFile; fileRef = B1587ED11C4CE9FA008F31DA /* FontReadme.html */; };
 		B177A4B41C40E5930080BBC5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B177A4B31C40E5930080BBC5 /* AppDelegate.swift */; };
 		B177A4B61C40E5930080BBC5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B177A4B51C40E5930080BBC5 /* ViewController.swift */; };
 		B177A4B91C40E5930080BBC5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B177A4B71C40E5930080BBC5 /* Main.storyboard */; };
@@ -17,11 +20,7 @@
 		B177A4D41C40E5940080BBC5 /* QuizUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B177A4D31C40E5940080BBC5 /* QuizUITests.swift */; };
 		B177A4E21C40E63A0080BBC5 /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B177A4E11C40E63A0080BBC5 /* QuizViewController.swift */; };
 		B177A4E41C40E64F0080BBC5 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B177A4E31C40E64F0080BBC5 /* ResultViewController.swift */; };
-		B177A4EA1C40EE010080BBC5 /* 思考ちゃん.png in Resources */ = {isa = PBXBuildFile; fileRef = B177A4E91C40EE010080BBC5 /* 思考ちゃん.png */; };
-		B177A4F01C40EEAA0080BBC5 /* FontReadme.html in Resources */ = {isa = PBXBuildFile; fileRef = B177A4EC1C40EEAA0080BBC5 /* FontReadme.html */; };
 		B177A4F11C40EEAA0080BBC5 /* ハンまるゴシック.otf in Resources */ = {isa = PBXBuildFile; fileRef = B177A4EE1C40EEAA0080BBC5 /* ハンまるゴシック.otf */; };
-		B177A4F21C40EEAA0080BBC5 /* ハンまるゴシック.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B177A4EF1C40EEAA0080BBC5 /* ハンまるゴシック.ttf */; };
-		B177A4F41C40F2AF0080BBC5 /* think.png in Resources */ = {isa = PBXBuildFile; fileRef = B177A4F31C40F2AF0080BBC5 /* think.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,7 +41,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B110AABF1C412AF3003CC581 /* 閃き.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "閃き.png"; path = "../../../Documents/閃き.png"; sourceTree = "<group>"; };
+		B1587ECA1C4CE995008F31DA /* 閃き.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "閃き.png"; path = "../../../../Documents/閃き.png"; sourceTree = "<group>"; };
+		B1587ECC1C4CE9AC008F31DA /* think.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = think.png; path = ../../../../Documents/think.png; sourceTree = "<group>"; };
+		B1587ECE1C4CE9C7008F31DA /* 思考ちゃん.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "思考ちゃん.png"; path = "../../../Documents/思考ちゃん.png"; sourceTree = "<group>"; };
+		B1587ED01C4CE9E8008F31DA /* ハンまるゴシック.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ハンまるゴシック.ttf"; path = "../../../Downloads/HanmaruGothic/ハンまるゴシック.ttf"; sourceTree = "<group>"; };
+		B1587ED11C4CE9FA008F31DA /* FontReadme.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = FontReadme.html; path = ../../../Downloads/HanmaruGothic/FontReadme.html; sourceTree = "<group>"; };
 		B177A4B01C40E5930080BBC5 /* Quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B177A4B31C40E5930080BBC5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B177A4B51C40E5930080BBC5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,11 +61,7 @@
 		B177A4D51C40E5940080BBC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B177A4E11C40E63A0080BBC5 /* QuizViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
 		B177A4E31C40E64F0080BBC5 /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
-		B177A4E91C40EE010080BBC5 /* 思考ちゃん.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "思考ちゃん.png"; path = "../../../Documents/思考ちゃん.png"; sourceTree = "<group>"; };
-		B177A4EC1C40EEAA0080BBC5 /* FontReadme.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = FontReadme.html; sourceTree = "<group>"; };
 		B177A4EE1C40EEAA0080BBC5 /* ハンまるゴシック.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ハンまるゴシック.otf"; sourceTree = "<group>"; };
-		B177A4EF1C40EEAA0080BBC5 /* ハンまるゴシック.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ハンまるゴシック.ttf"; sourceTree = "<group>"; };
-		B177A4F31C40F2AF0080BBC5 /* think.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = think.png; path = ../../../Documents/think.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,10 +112,9 @@
 		B177A4B21C40E5930080BBC5 /* Quiz */ = {
 			isa = PBXGroup;
 			children = (
-				B110AABF1C412AF3003CC581 /* 閃き.png */,
-				B177A4F31C40F2AF0080BBC5 /* think.png */,
+				B1587ECA1C4CE995008F31DA /* 閃き.png */,
+				B1587ECC1C4CE9AC008F31DA /* think.png */,
 				B177A4EB1C40EEAA0080BBC5 /* HanmaruGothic */,
-				B177A4E91C40EE010080BBC5 /* 思考ちゃん.png */,
 				B177A4B31C40E5930080BBC5 /* AppDelegate.swift */,
 				B177A4B51C40E5930080BBC5 /* ViewController.swift */,
 				B177A4B71C40E5930080BBC5 /* Main.storyboard */,
@@ -150,9 +148,10 @@
 		B177A4EB1C40EEAA0080BBC5 /* HanmaruGothic */ = {
 			isa = PBXGroup;
 			children = (
-				B177A4EC1C40EEAA0080BBC5 /* FontReadme.html */,
+				B1587ED11C4CE9FA008F31DA /* FontReadme.html */,
+				B1587ED01C4CE9E8008F31DA /* ハンまるゴシック.ttf */,
 				B177A4ED1C40EEAA0080BBC5 /* その他のファイル */,
-				B177A4EF1C40EEAA0080BBC5 /* ハンまるゴシック.ttf */,
+				B1587ECE1C4CE9C7008F31DA /* 思考ちゃん.png */,
 			);
 			name = HanmaruGothic;
 			path = ../../../Downloads/HanmaruGothic;
@@ -275,13 +274,12 @@
 			files = (
 				B177A4BE1C40E5930080BBC5 /* LaunchScreen.storyboard in Resources */,
 				B177A4BB1C40E5930080BBC5 /* Assets.xcassets in Resources */,
-				B177A4F41C40F2AF0080BBC5 /* think.png in Resources */,
 				B177A4F11C40EEAA0080BBC5 /* ハンまるゴシック.otf in Resources */,
 				B177A4B91C40E5930080BBC5 /* Main.storyboard in Resources */,
-				B177A4F01C40EEAA0080BBC5 /* FontReadme.html in Resources */,
-				B177A4F21C40EEAA0080BBC5 /* ハンまるゴシック.ttf in Resources */,
-				B110AAC01C412AF3003CC581 /* 閃き.png in Resources */,
-				B177A4EA1C40EE010080BBC5 /* 思考ちゃん.png in Resources */,
+				B1587ECB1C4CE995008F31DA /* 閃き.png in Resources */,
+				B1587ECF1C4CE9C7008F31DA /* 思考ちゃん.png in Resources */,
+				B1587ECD1C4CE9AC008F31DA /* think.png in Resources */,
+				B1587ED21C4CE9FA008F31DA /* FontReadme.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

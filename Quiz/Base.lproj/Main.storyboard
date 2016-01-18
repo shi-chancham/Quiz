@@ -5,7 +5,7 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
     </dependencies>
     <customFonts key="customFonts">
-        <mutableArray key="ハンまるゴシック.otf">
+        <mutableArray key="ハンまるゴシック.ttf">
             <string>HanmaruGothic</string>
             <string>HanmaruGothic</string>
             <string>HanmaruGothic</string>
@@ -27,7 +27,7 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QO2-nB-K8U">
                                 <rect key="frame" x="106" y="522" width="163" height="92"/>
                                 <color key="backgroundColor" red="0.95255962169999997" green="0.35313013980000002" blue="0.4796463816" alpha="1" colorSpace="calibratedRGB"/>
-                                <fontDescription key="fontDescription" name="HanmaruGothic" family="HanmaruGothic" pointSize="27"/>
+                                <fontDescription key="fontDescription" name="HanmaruGothic" family="HanmaruGothic" pointSize="35"/>
                                 <state key="normal" title="すたーと!">
                                     <color key="titleColor" red="0.83146215270000001" green="0.99674076570000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -46,7 +46,7 @@
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="あたまのたいそう" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1p9-2c-5kd">
                                 <rect key="frame" x="53" y="44" width="285" height="57"/>
-                                <fontDescription key="fontDescription" name="HanmaruGothic" family="HanmaruGothic" pointSize="35"/>
+                                <fontDescription key="fontDescription" name="HanmaruGothic" family="HanmaruGothic" pointSize="65"/>
                                 <color key="textColor" red="0.39703891699999999" green="0.6538431187" blue="0.26007060659999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -144,7 +144,7 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EAf-7N-GU3">
                                 <rect key="frame" x="98" y="495" width="179" height="91"/>
                                 <color key="backgroundColor" red="0.95255962169999997" green="0.35313013980000002" blue="0.4796463816" alpha="1" colorSpace="calibratedRGB"/>
-                                <fontDescription key="fontDescription" name="HanmaruGothic" family="HanmaruGothic" pointSize="20"/>
+                                <fontDescription key="fontDescription" name="HanmaruGothic" family="HanmaruGothic" pointSize="32"/>
                                 <state key="normal" title="タイトルにもどる">
                                     <color key="titleColor" red="0.83146215270000001" green="0.99674076570000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
